@@ -4,11 +4,11 @@
 
 Meu nome é João Morais, tenho 20 anos e resido em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou bastante interessado na área de tecnologia e, diariamente, dedico tempo aos estudos com o objetivo de me tornar um bom programador. Meu interesse por tecnologia teve início ainda na infância, quando costumava explorar as diversas funcionalidades de um notebook que eu possuía. Grande parte dessa paixão também foi influenciada pelo meu envolvimento com jogos, que sempre despertaram minha curiosidade e entusiasmo pela área.
 
-💻 Foco atual: Java, lógica de programação e boas práticas.
-🚀 Em busca de experiência e crescimento na área de desenvolvimento.
+- 💻 **Foco atual:** Java, lógica de programação e boas práticas  
+- 🚀 **Objetivo:** Em busca de experiência e crescimento na área de desenvolvimento  
 ---
 
-### Linguagens e Tecnologias 🎮🤖
+### Linguagens e Tecnologias 🧠🤖
 
 <img 
     align="left" 
@@ -50,3 +50,10 @@ Meu nome é João Morais, tenho 20 anos e resido em São Paulo. Atualmente, esto
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-morais-t/?trk=opento_sprofile_topcard)
+
+---
