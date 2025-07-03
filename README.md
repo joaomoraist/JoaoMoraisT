@@ -65,5 +65,3 @@ Meu nome é João Morais, tenho 20 anos e resido em São Paulo. Atualmente, esto
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
   />
 </a>
-
----
