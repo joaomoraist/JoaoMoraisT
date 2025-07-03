@@ -50,10 +50,19 @@ Meu nome é João Morais, tenho 20 anos e resido em São Paulo. Atualmente, esto
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
 ---
 
-### 📫 Contato
+### Linkedin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-morais-t/?trk=opento_sprofile_topcard)
-
+<a href="https://www.linkedin.com/in/joão-morais-t/?trk=opento_sprofile_topcard" target="_blank">
+  <img 
+    align="left" 
+    alt="LinkedIn" 
+    title="LinkedIn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+  />
+</a>
 ---
