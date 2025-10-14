@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Java Developer em formação`**
 
-Meu nome é João Morais, tenho 20 anos e resido em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou bastante interessado na área de tecnologia e, diariamente, dedico tempo aos estudos com o objetivo de me tornar um bom programador. Meu interesse por tecnologia teve início ainda na infância, quando costumava explorar as diversas funcionalidades de um notebook que eu possuía. Grande parte dessa paixão também foi influenciada pelo meu envolvimento com jogos, que sempre despertaram minha curiosidade e entusiasmo pela área.
+Meu nome é João Morais, tenho 21 anos e resido em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou bastante interessado na área de tecnologia e, diariamente, dedico tempo aos estudos com o objetivo de me tornar um bom programador. Meu interesse por tecnologia teve início ainda na infância, quando costumava explorar as diversas funcionalidades de um notebook que eu possuía. Grande parte dessa paixão também foi influenciada pelo meu envolvimento com jogos, que sempre despertaram minha curiosidade e entusiasmo pela área.
 
 - 💻 **Foco atual:** Java, lógica de programação e boas práticas  
 - 🚀 **Objetivo:** Em busca de experiência e crescimento na área de desenvolvimento  
