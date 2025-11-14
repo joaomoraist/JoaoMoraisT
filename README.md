@@ -44,11 +44,43 @@ Meu nome é João Morais, tenho 21 anos e resido em São Paulo. Atualmente, esto
 />
 <img 
     align="left" 
+    alt="Spring Boot"
+    title="Spring Boot"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img 
+    align="left" 
     alt="MySQL"
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="DBeaver"
+    title="DBeaver"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://dbeaver.io/product/community/svg/dbeaver-logo.svg"
+/>
+<img 
+    align="left" 
+    alt="IntelliJ IDEA"
+    title="IntelliJ IDEA"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
 <br clear="both" />
 ---
