@@ -1,4 +1,4 @@
-#[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&width=600&lines=System.out.println(%22I'am+João+Morais!%22);)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&width=600&lines=System.out.println(%22I'm+João+Morais!%22);)](https://git.io/typing-svg)
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Java Developer em formação`**
 
