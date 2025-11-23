@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&width=600&lines=System.out.println(%22I'm+João+Morais!%22);)](https://git.io/typing-svg)
 
-**`Estudante de Análise e Desenvolvimento de Sistemas | Java Developer em formação`**
+**`Estudante de Análise e Desenvolvimento de Sistemas | Java Developer`**
 
 
 Meu nome é João Morais, tenho 21 anos e resido em São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou bastante interessado na área de tecnologia e, diariamente, dedico tempo aos estudos com o objetivo de me tornar um bom programador. Meu interesse por tecnologia teve início ainda na infância, quando costumava explorar as diversas funcionalidades de um notebook que eu possuía. Grande parte dessa paixão também foi influenciada pelo meu envolvimento com jogos, que sempre despertaram minha curiosidade e entusiasmo pela área.
