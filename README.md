@@ -77,7 +77,7 @@ Meu nome é João Morais, tenho 21 anos e resido em São Paulo. Atualmente, esto
 />
 <br clear="both" />
 ---
-<p align="left"> <img alt="Linguagens mais usadas" title="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraist&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+<br clear="both" />
 ---
 ### Linkedin
 
