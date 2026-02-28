@@ -53,6 +53,22 @@ Meu nome é João Morais, tenho 21 anos e resido em São Paulo. Atualmente, esto
 />
 <img 
     align="left" 
+    alt="JUnit"
+    title="JUnit"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Maven"
+    title="Maven"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
+/>
+<img 
+    align="left" 
     alt="MySQL"
     title="MySQL"
     width="30px" 
