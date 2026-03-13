@@ -12,7 +12,7 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 * 🚀 **Objetivo:** Crescimento profissional na área de desenvolvimento
 
 ---
-
+<div align="center">
 # 🧠 Linguagens e Tecnologias
 
 <img 
@@ -109,7 +109,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
 <br/>
 
 ---
-
+<div align="center">
 # 📊 Estatísticas
 
 <div align="center">
