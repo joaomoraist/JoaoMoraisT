@@ -62,10 +62,10 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
   <a href="mailto:jv.timotio@gmail.com" title="Enviar Email">
     <img 
-        alt="Gmail"
-        width="30px"
-        src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" 
-        style="display: block;"
+      alt="Gmail"
+      width="30px"
+      src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
+      style="display: block;"
     />
   </a>
 </div>
