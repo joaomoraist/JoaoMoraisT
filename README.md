@@ -13,7 +13,7 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
 
 ### 🧠 Linguagens e Tecnologias
 
