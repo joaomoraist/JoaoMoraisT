@@ -50,28 +50,22 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
 # 🌐 Contato
 
-<a href="https://www.linkedin.com/in/joão-morais-t/?trk=opento_sprofile_topcard" target="_blank">
+<div style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/joão-morais-t/?trk=opento_sprofile_topcard" target="_blank" title="LinkedIn">
+    <img 
+      alt="LinkedIn" 
+      width="30px" 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+      style="display: block;"
+    />
+  </a>
 
-<img 
-align="left" 
-alt="LinkedIn" 
-title="LinkedIn" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-/>
-
-</a>
-<a href="mailto:jv.timotio@gmail.com">
-
-<img 
-alt="Gmail"
-title="Enviar Email"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-/>
-
-</a>
-
-<br/>
+  <a href="mailto:jv.timotio@gmail.com" title="Enviar Email">
+    <img 
+      alt="Gmail"
+      width="30px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+      style="display: block;"
+    />
+  </a>
+</div>
