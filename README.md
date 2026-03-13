@@ -46,8 +46,6 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joaomoraist\&theme=dark\&ring=ff8c00\&fire=ff8c00\&currStreakLabel=ff8c00\&background=0d1117)](https://git.io/streak-stats)
-
 </div>
 
 ---
