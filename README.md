@@ -62,5 +62,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin
 />
 
 </a>
+<a href="mailto:jv.timotio@gmail.com">
+
+<img 
+alt="Gmail"
+title="Enviar Email"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+/>
+
+</a>
 
 <br/>
