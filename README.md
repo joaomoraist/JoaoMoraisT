@@ -12,118 +12,35 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 * 🚀 **Objetivo:** Crescimento profissional na área de desenvolvimento
 
 ---
+
 <div align="center">
+
 ### 🧠 Linguagens e Tecnologias
 
-<img 
-align="left" 
-alt="HTML"
-title="HTML" 
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40px"/>
 
-<img 
-align="left" 
-alt="CSS" 
-title="CSS"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="Python" 
-title="Python"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="Java"
-title="Java"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="Spring Boot"
-title="Spring Boot"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-
-<img 
-align="left" 
-alt="JUnit"
-title="JUnit"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg"
-/>
-
-<img 
-align="left" 
-alt="Maven"
-title="Maven"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"
-/>
-
-<img 
-align="left" 
-alt="MySQL"
-title="MySQL"
-width="30px" 
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-align="left" 
-alt="PostgreSQL"
-title="PostgreSQL"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-<img 
-align="left" 
-alt="IntelliJ IDEA"
-title="IntelliJ IDEA"
-width="30px"
-style="padding-right: 10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-/>
 </div>
 
-<br/>
-<br/>
-
 ---
-<div align="center">
-### 📊 Estatísticas
 
 <div align="center">
+
+### 📊 Estatísticas
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoraist&show_icons=true&theme=dark&icon_color=ff8c00&title_color=ff8c00&text_color=ffffff&bg_color=0d1117"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraist&layout=compact&title_color=ff8c00&text_color=ffffff&bg_color=0d1117"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=joaomoraist\&theme=dark\&ring=ff8c00\&fire=ff8c00\&currStreakLabel=ff8c00\&background=0d1117)](https://git.io/streak-stats)
 
