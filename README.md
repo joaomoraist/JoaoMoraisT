@@ -38,9 +38,11 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoraist&show_icons=true&theme=dark&icon_color=ff8c00&title_color=ff8c00&text_color=ffffff&bg_color=0d1117"/>
 
+<br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraist&layout=compact&title_color=ff8c00&text_color=ffffff&bg_color=0d1117"/>
 
-<br><br>
+<br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=joaomoraist\&theme=dark\&ring=ff8c00\&fire=ff8c00\&currStreakLabel=ff8c00\&background=0d1117)](https://git.io/streak-stats)
 
