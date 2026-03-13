@@ -13,7 +13,7 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
 ---
 <div align="center">
-# 🧠 Linguagens e Tecnologias
+### 🧠 Linguagens e Tecnologias
 
 <img 
 align="left" 
@@ -104,13 +104,14 @@ width="30px"
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
 />
+</div>
 
 <br/>
 <br/>
 
 ---
 <div align="center">
-# 📊 Estatísticas
+### 📊 Estatísticas
 
 <div align="center">
 
