@@ -42,7 +42,7 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraist&layout=compact&langs_count=8&title_color=ff8c00&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraist&layout=compact&langs_count=8&title_color=ff8c00&text_color=ffffff&icon_color=ff8c00&bg_color=0d1117&border_color=ff8c00"/>
 
 <br>
 
