@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&width=750&color=FFA500&lines=public+class+JoaoMorais+%7B;++++String+role+%3D+%22Java+Developer%22%3B;++++String+focus+%3D+%22Backend+%7C+Spring+Boot%22%3B;++++System.out.println(%22Welcome+to+my+GitHub!%22)%3B;%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&width=750&color=FFA500&lines=public+class+Me+%7B;++++public+static+void+main(String%5B%5D+args)+%7B;++++++++System.out.println(%22Hello%2C+I'm+Jo%C3%A3o+Morais!%22);++++%7D;%7D)](https://git.io/typing-svg)
 
 **`Estudante de Análise e Desenvolvimento de Sistemas | Java Developer`**
 
