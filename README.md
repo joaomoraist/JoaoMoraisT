@@ -38,11 +38,11 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 
 ### 📊 Estatísticas
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomoraist&show_icons=true&theme=dark&icon_color=ff8c00&title_color=ff8c00&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=joaomoraist&show_icons=true&theme=dark&icon_color=ff8c00&title_color=ff8c00&text_color=ffffff&bg_color=0d1117"/>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomoraist&layout=compact&langs_count=8&title_color=ff8c00&text_color=ffffff&bg_color=0d1117&border_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=joaomoraist&layout=compact&langs_count=8&title_color=ff8c00&text_color=ffffff&bg_color=0d1117&border_color=ffffff"/>
 
 <br>
 
