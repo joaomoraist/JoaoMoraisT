@@ -8,7 +8,7 @@ Meu nome é **João Morais**, tenho 21 anos e resido em São Paulo. Atualmente e
 
 Meu interesse por tecnologia começou ainda na infância, quando eu explorava diversas funcionalidades de um notebook que eu possuía. Grande parte dessa curiosidade também foi influenciada pelo meu contato com jogos, que sempre despertaram meu entusiasmo pela área de tecnologia.
 
-* 💻 **Foco atual:** Java, Programação Orientada a Objetos, lógica de programação e boas práticas
+* 💻 **Foco atual:** Desenvolvimento Backend com Java e Spring Boot, arquitetura de APIs RESTful e Cloud Computing (AWS).
 * 🚀 **Objetivo:** Crescimento profissional na área de desenvolvimento
 
 ---
