@@ -29,6 +29,7 @@ Meu interesse por tecnologia começou ainda na infância, quando eu explorava di
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="30px" title="IntelliJ IDEA"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px" title="Git"/>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30px" title="GitHub" style="filter: hue-rotate(30deg) saturate(500%) brightness(1.2);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30px" title="AWS"/>
 
 </div>
 
