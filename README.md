@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&width=750&color=FFA500&lines=public+class+JoaoMorais+%7B;++++String+role+%3D+%22Java+Developer%22%3B;++++System.out.println(%22Welcome+to+my+GitHub!%22)%3B)](https://git.io/typing-svg)
 
-**`Estudante de Análise e Desenvolvimento de Sistemas | Java Developer`**
+**`Formado em Análise e Desenvolvimento de Sistemas | Java Developer`**
 
 ---
 
-Meu nome é **João Morais**, tenho 21 anos e resido em São Paulo. Atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Sou bastante interessado na área de tecnologia e diariamente dedico tempo aos estudos com o objetivo de me tornar um bom programador.
+Meu nome é **João Morais**, tenho 21 anos e resido em São Paulo. E sou formado em **Análise e Desenvolvimento de Sistemas**. Sou bastante interessado na área de tecnologia e diariamente dedico tempo aos estudos com o objetivo de me tornar um bom programador.
 
 Meu interesse por tecnologia começou ainda na infância, quando eu explorava diversas funcionalidades de um notebook que eu possuía. Grande parte dessa curiosidade também foi influenciada pelo meu contato com jogos, que sempre despertaram meu entusiasmo pela área de tecnologia.
 
